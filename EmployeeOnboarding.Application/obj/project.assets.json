@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
+      "projectUniqueName": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
       "projectName": "EmployeeOnboarding.Application",
-      "projectPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
+      "projectPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
       "packagesPath": "C:\\Users\\RinozaJiffry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\obj\\",
+      "outputPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RinozaJiffry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {
-              "projectPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj"
+            "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {
+              "projectPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj"
             }
           }
         }

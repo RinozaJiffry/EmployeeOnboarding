@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {}
+    "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {
+    "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
+        "projectUniqueName": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
         "projectName": "EmployeeOnboarding.Core",
-        "projectPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
+        "projectPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
         "packagesPath": "C:\\Users\\RinozaJiffry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\obj\\",
+        "outputPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RinozaJiffry\\AppData\\Roaming\\NuGet\\NuGet.Config",

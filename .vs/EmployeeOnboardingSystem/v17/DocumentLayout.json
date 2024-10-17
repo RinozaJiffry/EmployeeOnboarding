@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|solutionrelative:employeeonboarding.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|solutionrelative:employeeonboarding.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.application\\usecases\\employeeonboardingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|solutionrelative:employeeonboarding.application\\usecases\\employeeonboardingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|solutionrelative:employeeonboarding.infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|solutionrelative:employeeonboarding.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|solutionrelative:employeeonboarding.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\employeeonboarding.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\employeeonboarding.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboardingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.infrastructure\\employeeonboarding.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|solutionrelative:employeeonboarding.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|solutionrelative:employeeonboarding.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.application\\usecases\\employeeonboardingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|solutionrelative:employeeonboarding.application\\usecases\\employeeonboardingusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|solutionrelative:employeeonboarding.infrastructure\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|solutionrelative:employeeonboarding.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|solutionrelative:employeeonboarding.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\wwwroot\\swagger-ui\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboardingsystem\\employeeonboarding.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F9FF949-041C-4661-9F74-E67580C680F5}|EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj|solutionrelative:employeeonboardingsystem\\employeeonboarding.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.infrastructure\\employeeonboarding.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{886F5A33-6A62-40FF-8A16-301A7D4E30C3}|EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj|solutionrelative:employeeonboarding.infrastructure\\employeeonboarding.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.application\\employeeonboarding.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.application\\employeeonboarding.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2BFC1561-129B-4D40-926A-CC67CB7DD654}|EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj|solutionrelative:employeeonboarding.application\\employeeonboarding.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\source\\repos\\employeeonboardingsystem\\employeeonboarding.core\\employeeonboarding.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|c:\\users\\rinozajiffry\\downloads\\employeeonboardingsystem\\employeeonboarding.core\\employeeonboarding.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D88A2DCE-7EB5-45D6-95DE-1C0DC120EA87}|EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj|solutionrelative:employeeonboarding.core\\employeeonboarding.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -70,45 +70,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeOnboardingUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
+              "RelativeDocumentMoniker": "EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
+              "RelativeToolTip": "EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:21:53.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:59:47.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeOnboardingUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
-              "RelativeDocumentMoniker": "EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
-              "RelativeToolTip": "EmployeeOnboarding.Application\\UseCases\\EmployeeOnboardingUseCase.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowGYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:21:53.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowD8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:59:47.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
               "RelativeToolTip": "EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,50 +111,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeOnboardingSystem\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:20:35.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T16:20:35.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\Program.cs",
               "RelativeToolTip": "EmployeeOnboardingSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T16:00:29.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
-              "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
-              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:34:52.871Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeOnboardingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T15:48:43.339Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:34:52.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Entities\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Core\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Entities\\Employee.cs",
               "RelativeToolTip": "EmployeeOnboarding.Core\\Entities\\Employee.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
               "RelativeToolTip": "EmployeeOnboarding.Application\\DTOs\\EmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "RelativeToolTip": "EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -192,11 +201,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EmployeeOnboarding.WebAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
               "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
               "RelativeToolTip": "EmployeeOnboardingSystem\\EmployeeOnboarding.WebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -204,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "RelativeToolTip": "EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -216,23 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "EmployeeOnboardingSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\appsettings.json",
-              "RelativeToolTip": "EmployeeOnboardingSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T15:48:43.339Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "EmployeeOnboarding.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
               "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\EmployeeOnboarding.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -242,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "EmployeeOnboarding.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
               "RelativeToolTip": "EmployeeOnboarding.Application\\EmployeeOnboarding.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -254,9 +251,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "EmployeeOnboarding.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\Downloads\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
               "RelativeToolTip": "EmployeeOnboarding.Core\\EmployeeOnboarding.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

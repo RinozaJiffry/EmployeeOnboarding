@@ -70,8 +70,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -91,8 +95,8 @@
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs*",
-              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs*",
+              "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeOnboarding.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAowD8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:59:47.375Z",
@@ -106,7 +110,7 @@
               "RelativeDocumentMoniker": "EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
               "ToolTip": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
               "RelativeToolTip": "EmployeeOnboarding.Core\\Interfaces\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:06:22.933Z",
               "EditorCaption": ""
@@ -257,10 +261,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-13T14:00:02.557Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
