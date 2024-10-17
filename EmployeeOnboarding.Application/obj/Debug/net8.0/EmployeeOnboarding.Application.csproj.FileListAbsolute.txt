@@ -1,0 +1,15 @@
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\bin\Debug\net8.0\EmployeeOnboarding.Application.deps.json
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\bin\Debug\net8.0\EmployeeOnboarding.Application.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\bin\Debug\net8.0\EmployeeOnboarding.Application.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\bin\Debug\net8.0\EmployeeOnboarding.Core.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\bin\Debug\net8.0\EmployeeOnboarding.Core.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.csproj.AssemblyReference.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.AssemblyInfoInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.AssemblyInfo.cs
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.csproj.CoreCompileInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\Employee.BC7951A9.Up2Date
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\refint\EmployeeOnboarding.Application.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\EmployeeOnboarding.Application.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Application\obj\Debug\net8.0\ref\EmployeeOnboarding.Application.dll

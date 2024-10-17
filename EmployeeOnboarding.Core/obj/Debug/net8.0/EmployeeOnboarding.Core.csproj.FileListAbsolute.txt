@@ -1,0 +1,11 @@
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\bin\Debug\net8.0\EmployeeOnboarding.Core.deps.json
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\bin\Debug\net8.0\EmployeeOnboarding.Core.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\bin\Debug\net8.0\EmployeeOnboarding.Core.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.AssemblyInfoInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.AssemblyInfo.cs
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.csproj.CoreCompileInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\refint\EmployeeOnboarding.Core.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\EmployeeOnboarding.Core.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Core\obj\Debug\net8.0\ref\EmployeeOnboarding.Core.dll

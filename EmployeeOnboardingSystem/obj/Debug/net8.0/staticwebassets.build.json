@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Xi9HMB+gvV2x425UWEUbxPVywyy7v7qkHbhn+90GlwY=",
+  "Source": "EmployeeOnboarding.WebAPI",
+  "BasePath": "_content/EmployeeOnboarding.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeOnboarding.WebAPI\\wwwroot",
+      "Source": "EmployeeOnboarding.WebAPI",
+      "ContentRoot": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeOnboarding.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\swagger-ui\\custom.css",
+      "SourceId": "EmployeeOnboarding.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\RinozaJiffry\\source\\repos\\EmployeeOnboardingSystem\\EmployeeOnboardingSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeOnboarding.WebAPI",
+      "RelativePath": "swagger-ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\custom.css"
+    }
+  ]
+}

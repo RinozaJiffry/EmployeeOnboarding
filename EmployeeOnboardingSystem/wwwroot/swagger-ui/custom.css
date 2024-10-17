@@ -1,0 +1,102 @@
+﻿/* Custom CSS for Swagger UI */
+
+/* Body Styling */
+body {
+    background-color: #f4f7fa; /* Soft background color */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern, clean font */
+    color: #333; /* Dark text color */
+}
+
+/* Container styling */
+.swagger-ui .wrapper {
+    max-width: 900px; /* Limit max width for better readability */
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background for content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for elevation */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Styling for Swagger title */
+.swagger-ui .topbar {
+    background-color: #007acc; /* Blue header */
+    color: white;
+}
+
+.swagger-ui .topbar-wrapper {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style for form input fields (like first name, last name, email, date) */
+.swagger-ui .parameter__field {
+    border: 2px solid #007acc; /* Blue border */
+    padding: 8px 12px; /* Add padding inside the fields */
+    border-radius: 5px; /* Rounded edges */
+    background-color: #eef3f7; /* Light background */
+    color: #333; /* Dark text */
+    width: 100%; /* Full width */
+    font-size: 16px; /* Readable font size */
+}
+
+/* Add spacing between fields */
+.swagger-ui .parameters-col_description {
+    margin-bottom: 20px; /* Space between field and description */
+}
+
+/* Styling for labels */
+.swagger-ui .parameters-col_name {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+/* Button Styling */
+.swagger-ui .btn {
+    background-color: #007acc; /* Blue button background */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding for better spacing */
+    border-radius: 5px; /* Rounded button corners */
+    border: none; /* Remove borders */
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth hover effect */
+}
+
+    .swagger-ui .btn:hover {
+        background-color: #005fa3; /* Darker blue on hover */
+    }
+
+/* Response/Status Box Styling */
+.swagger-ui .response-col_status {
+    background-color: #eef3f7; /* Light background for status */
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+/* Add margins to response fields */
+.swagger-ui .response-col_description {
+    margin-bottom: 10px;
+}
+
+    /* Success Message Styling */
+    .swagger-ui .response-col_description.success {
+        background-color: #d4edda; /* Light green for success */
+        color: #155724;
+        padding: 10px;
+        border-left: 4px solid #28a745; /* Green border for emphasis */
+        border-radius: 5px;
+    }
+
+    /* Error Message Styling */
+    .swagger-ui .response-col_description.error {
+        background-color: #f8d7da; /* Light red for error */
+        color: #721c24;
+        padding: 10px;
+        border-left: 4px solid #dc3545; /* Red border for emphasis */
+        border-radius: 5px;
+    }

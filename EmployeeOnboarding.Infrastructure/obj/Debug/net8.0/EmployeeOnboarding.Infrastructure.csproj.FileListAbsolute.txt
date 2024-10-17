@@ -1,0 +1,15 @@
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.AssemblyInfo.cs
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\bin\Debug\net8.0\EmployeeOnboarding.Infrastructure.deps.json
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\bin\Debug\net8.0\EmployeeOnboarding.Infrastructure.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\bin\Debug\net8.0\EmployeeOnboarding.Infrastructure.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\bin\Debug\net8.0\EmployeeOnboarding.Core.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\bin\Debug\net8.0\EmployeeOnboarding.Core.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\Employee.A6276C6F.Up2Date
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\refint\EmployeeOnboarding.Infrastructure.dll
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\EmployeeOnboarding.Infrastructure.pdb
+C:\Users\RinozaJiffry\source\repos\EmployeeOnboardingSystem\EmployeeOnboarding.Infrastructure\obj\Debug\net8.0\ref\EmployeeOnboarding.Infrastructure.dll
